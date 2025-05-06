@@ -1,0 +1,2 @@
+# Anotação sobre Commit para o GitHub
+ commit é uma "fotografia" do estado atual do seu repositório. Ele salva as alterações feitas nos arquivos e adiciona uma mensagem descritiva para identificar o que foi alterado.
